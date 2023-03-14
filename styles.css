@@ -20,8 +20,8 @@ body {
   .card {
     list-style: none;
     padding: 10px;
-    width: 340px;
-    height: 340px;
+    width: 240px;
+    height: 240px;
     background-image: url(https://www.pngplay.com/wp-content/uploads/2/Pokeball-PNG-Pic-Background.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -68,8 +68,8 @@ body {
   #pokedex {
     padding-inline-start: 0;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-    grid-gap: 40px;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 30px;
     margin-top: 25px;
   }
   .card:hover {
